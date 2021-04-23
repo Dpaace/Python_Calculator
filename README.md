@@ -14,13 +14,13 @@ This function makes the clicked buttons store the value as the first number.
 
 Then separate functions are made for differet buttons like:
 * For adding the numbers
-**  "button_add()" function is made which does the work of adding any two user input numbers
+  ** "button_add()" function is made which does the work of adding any two user input numbers
 * For subtracting the numbers
-** "button-sub()" function is made which does the work of subtracting any two user input numbers
+  ** "button-sub()" function is made which does the work of subtracting any two user input numbers
 * For multiplying the numbers
-**  "button-mul()" function is made which does the work of multiplying any two user input numbers
+  ** "button-mul()" function is made which does the work of multiplying any two user input numbers
 * For dividing the numbers
-**  "button-div()" function is made which does the work of dividing any two user input numbers
+  ** "button-div()" function is made which does the work of dividing any two user input numbers
 
 The "button_equal()" function here is a little tricky as it is the most important because it decides what operation should be done for the given two user input numbers.
 The "button_clear()" function does the work of clearing the screen or it resets the value to zero for the user to input another new number.
