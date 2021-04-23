@@ -1,4 +1,5 @@
 # Python_Calculator
+## Short Descrpition of the making of the calculator
 This is a simple calculator made by Python Language using Tkinter.
 Anybody having a basic knowledge of python functions, python operators can easily make this simple calculator.
 In this python program firstly I have imported lambda function which is used for mathematical calculation.
@@ -30,7 +31,7 @@ So all the required buttons like the numbers for the calculator, addition, subtr
 The user can input any two different numbers and can perform any mathematical calculation provided in the calculator.
 
 
-## Preview
+## Preview of the calculator
 
 ![Preview](https://user-images.githubusercontent.com/63782923/115898885-cea94880-a47d-11eb-921e-3c2fe0d83c24.JPG)
 
