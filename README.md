@@ -36,8 +36,8 @@ The user can input any two different numbers and can perform any mathematical ca
 
 
 
-#### Dipesh Nepali
+### Dipesh Nepali
 
-##### Student Id: 210089
-##### Batch '29B'
+#### Student Id: 210089
+#### Batch '29B'
 
