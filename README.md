@@ -12,7 +12,7 @@ For the calculator to work we need to make clickable buttons.
 So for the buttons to be clickable a separate function is made under "button_click(number)" which is applicable for all the buttons in the calculator.
 This function makes the clicked buttons store the value as the first number.
 
-Then separate functions are made for differet buttons like:
+Then separate functions are made for different buttons like:
 * For adding the numbers
   * "button_add()" function is made which does the work of adding any two user input numbers
 * For subtracting the numbers
